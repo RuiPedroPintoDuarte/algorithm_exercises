@@ -1,0 +1,4 @@
+﻿  Main.cpp
+C:\Users\joaof\OneDrive\Universidade\3ºAno\2ºSemestre\Algortimia\AlgEx1\AlgEx1\AlgEx1\Main.cpp(289,16): warning C4477: 'fprintf' : format string '%c' requires an argument of type 'int', but variadic argument 1 has type 'char *'
+C:\Users\joaof\OneDrive\Universidade\3ºAno\2ºSemestre\Algortimia\AlgEx1\AlgEx1\AlgEx1\Main.cpp(477): warning C4715: 'ChosList': not all control paths return a value
+  AlgEx1.vcxproj -> C:\Users\joaof\OneDrive\Universidade\3ºAno\2ºSemestre\Algortimia\AlgEx1\AlgEx1\Debug\AlgEx1.exe
